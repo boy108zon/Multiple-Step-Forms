@@ -1,6 +1,7 @@
 # Multiple-Step-Forms
 Multiple Step Forms
 
+NOTE: Form Fieds Table will containe all step , if you want to add another step for form , you can add in this table mannually.  
 
 --
 -- Table structure for table `forms`
