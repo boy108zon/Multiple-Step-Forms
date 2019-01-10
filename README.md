@@ -2,7 +2,7 @@
 Multiple Step Forms
 
 NOTE: Form Fieds Table will containe all step , if you want to add another step for form , you can add in this table mannually.  
-
+This is a single function which will handle all form process.
 --
 -- Table structure for table `forms`
 -- This will store all forms.
